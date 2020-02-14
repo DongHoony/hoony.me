@@ -1,0 +1,20 @@
+body{
+background-color:#e2e2e2;
+}
+a{
+
+}
+a:link{
+color:#0d0d0d;
+text-decoration: none;
+}
+a:visited{
+color:#0d0d0d;
+}
+a:hover{
+color:#595959;
+}
+
+.txt{
+color:#0d0d0d;
+}
